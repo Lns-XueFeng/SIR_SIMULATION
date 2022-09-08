@@ -1,3 +1,3 @@
 # SIR_SIMULATION
-#### 模仿知乎大佬高天做的小项目
-#### 随机创建一定数量的人分布在不同位置,并在各自区域附近运动, 如果离得太近则概率性感染, 经过一定时间后康复且不会在被感染。
+#### Imitate the small projects done by the Gao Tian
+#### Randomly create a certain number of people distributed in different locations and move around their respective areas, if too close, the probability of infection, after a certain period of time to recover and not be infected.
